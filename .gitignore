@@ -24,4 +24,4 @@ yarn-error.log*
 
 
 #yelp api key
-/src/util
+src/util/Yelp.js
